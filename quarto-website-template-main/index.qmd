@@ -1,0 +1,37 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/IMG_9744.JPG"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mcb242
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mallorybergmann/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.mcb242@case.edu"
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+My name is Mallory Bergmann and I am a graduate student at Case Western Reserve University. I am studying Systems Biology and Bioinformatics in pursuit of my Master of Science (MS). I am new to the bioinformatics field, as my undergraduate studies were more traditionally biology based, but having background in Genomics brought me to the field where I hope to join these topics in research. This personal website highlights my background, experiences, and projects/publications.
+
+My current research is explored in the field of cancer sciences, which I aim to refine a thesis and continue this project throughout my graduate studies. 
+
+In my free time I enjoy practicing yoga, going to concerts, and spending time with friends and family.
+
+On this website, you will find a selection of my published works, current projects, and updates on my academic and professional progress.
+Please feel free to [contact me](mailto:mail.mcb242@case.edu) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
